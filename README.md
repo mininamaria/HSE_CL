@@ -15,3 +15,6 @@ if ('0'<= w1[i]) and (w1[i] <= '9'):
             cnt2 += 1
 ```
 Сообщения их **напугают**
+# TF-IDF
+
+![Image alt](https://github.com/mininamaria/HSE_CL/blob/main/picture.jpg)
